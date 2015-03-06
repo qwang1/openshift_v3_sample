@@ -1,1 +1,1 @@
-# openshift_v3_sample
+# This is openshift_v3_sample
